@@ -1,0 +1,10 @@
+BSD 2-Clause "Simplified" License
+
+Copyright 2025 Chen Xu
+Original Code:
+The following codes are original:
+  - Train_FNN_GsPowerOpt.py
+  - predefined_functions.py
+These files were written by Chen Xu (xuchen@smbu.edu.cn) 
+
+
