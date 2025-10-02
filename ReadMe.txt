@@ -16,8 +16,8 @@ MATLAB: R2023a (9.14)
 - CPU: 24 physical cores / 32 logical cores  
 - Toolboxes: Parallel Computing Toolbox
 
-Files in dataGenerate 
-are the code for performing Experiments 1-8 in the paper. The code simulates the concentration at the outlet of the column by using a large number of samples, which is obtained by solving the PDE with the finite volume approximation method.
+Files in dataGenerate
+are the codes for generating the dataset (x, r), used to train the Feedforward Neural Network (FNN) in Experiments 1–8. The code simulates outlet concentrations of a column by solving a partial differential equation (PDE) using the finite volume approximation method, based on a large set of randomly generated x-samples. These concentrations are then used to construct the response curve r.
 
 Files in generate_response
 are the code for performing Experiments 1-8 in the paper. The code is used for generating and plotting chromatographic outlet response with known parameters.
