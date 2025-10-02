@@ -1,13 +1,13 @@
 BSD 2-Clause "Simplified" License
 
 Copyright 2025 Chen Xu
-Original Code:
+Original code:
 The following codes are original:
-  - Train_FNN_GsPowerOpt.py
-  - predefined_functions.py
-These files were written by Chen Xu (xuchen@smbu.edu.cn) 
+  -Train FNN GsPowerOpt.py
+  -predefined functions.py
+The above two python files were written by Chen Xu (xuchen@smbu.edu.cn)
+
+Copyright 2025 Ye Zhang and You Sun. The following files were written by Ye Zhang (ye.zhang@smbu,edu.cn) and You Sun (you.sun@bit.edu.cn)
 Files:
   - dataGenerate/
-  - generate_response/ 
-These files were written by Ye Zhang (ye.zhang@smbu.edu.cn) and You Sun (you.sun@bit.edu.cn)
-
+  - generate response/
