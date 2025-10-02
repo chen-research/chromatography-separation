@@ -9,5 +9,5 @@ These files were written by Chen Xu (xuchen@smbu.edu.cn)
 Files:
   - dataGenerate/
   - generate_response/ 
-These files were written by You Sun (you.sun@bit.edu.cn) and Ye Zhang (ye.zhang@smbu.edu.cn)
+These files were written by Ye Zhang (ye.zhang@smbu.edu.cn) and You Sun (you.sun@bit.edu.cn)
 
